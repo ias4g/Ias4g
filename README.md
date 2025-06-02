@@ -2,7 +2,7 @@
 
 <p align="right">
 
-<img align="left" src="https://komarev.com/ghpvc/?username=ias4g&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="ias4g" />
+<img align="left" src="https://komarev.com/ghpvc/?username=ias4g&label=Profile%20Views&color=0e75b6&style=flat" alt="ias4g" />
 
 <img align="right" src="https://img.shields.io/github/followers/ias4g?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 
@@ -12,24 +12,23 @@
 <br>
 <br>
 
-<p align="center">✨ Sempre buscando aprender e compartilhar, com humildade e excelência ✨
+<p align="center">✨ Always seeking to learn and share, with humility and excellence ✨
 
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Izael silva
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Izael Silva
 ==================================================================================================================================
 
 <p align="left">
-💻 Analista de Sistemas • 🎓 Cientista da Computação
+💻 Systems Analyst • 🎓 Computer Scientist
 </p>
 
-Um desenvolvedor, apaixonado por noticias, blogs e comunidades de tecnologias.
+A developer, passionate about technology news, blogs, and communities.
 
-- 🔗 Entusiasta de redes, switchs e infraestrutura.
-- 🎓 Estudante de **Ciência da Computação** na UNINOVE.
-- 📅 Previsão de conclusão no final de **Dezembro de 2025**.
-- 📚 Estudando para me especializar em **Gestão de TI** e **Liderança**.
-- 👨‍💻 Atualmente: Analista de Sistemas, com experiência em suporte técnico e infraestrutura.
-- 🛠️ Explorando tecnologias como: `Java`, `JavaScript`, `TypeScript`, `NodeJS`, `C#` e `Golang`.
+- 🔗 Networks, switches, and infrastructure enthusiast.
+- 🎓 Studying **Computer Science** at UNINOVE.
+- 📅 Expected graduation at the end of **December 2025**.
+- 📚 Studying to specialize in **IT Management** and **Leadership**.
+- 👨‍💻 Currently: Systems Analyst, with experience in technical support and infrastructure.
+- 🛠️ Exploring technologies such as: `Java`, `JavaScript`, `TypeScript`, `NodeJS`, `C#` and `Golang`.
 
 
 * 🧠  I'm learning Golang
@@ -60,7 +59,7 @@ Um desenvolvedor, apaixonado por noticias, blogs e comunidades de tecnologias.
 
 <a href="http://www.github.com/ias4g"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ias4g&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/ias4g" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ias4g&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ias4g" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ias4g&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
 
 <b>Top Repositories</b>
